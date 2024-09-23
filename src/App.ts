@@ -8,7 +8,7 @@ import * as gfx from 'gophergfx'
 
 export class App extends gfx.GfxApp
 {
-    // --- Create the App class ---
+    // --- Create the App class ----
     constructor()
     {
         // initialize the base class gfx.GfxApp
